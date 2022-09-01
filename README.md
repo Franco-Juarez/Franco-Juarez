@@ -4,14 +4,14 @@
 I'm Franco Juárez, a junior web developer from Argentina. 
 
 
-#Now
+##Now
 
 
 - 💻 Completing my digital portfolio.
 - 📚 Studying JavaScript.
 - ✨ Looking for my first job as a web developer.
 
-#Bio
+##Bio
 
 - 🔭 I use CSS, HTML, GIT, GITHUB, BOOTSTRAP, SASS on a daily basis.
 - 🌱 Learning all you can about web development.
