@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋 </h1>
 
 
-I'm Franco Juárez, a junior web developer from Argentina. 
+<p align="center">I'm Franco Juárez, a junior web developer from Argentina.</p>
+
 
 
 <h2>NOW</h2>
