@@ -14,9 +14,9 @@
 <h2>BIO</h2>
 
 - 🔭 I use CSS, HTML, GIT, GITHUB, BOOTSTRAP, SASS on a daily basis.
-- 🌱 Learning all you can about web development.
+- 🌱 Learning all I can about web development.
 - 📫 Reach me at https://www.linkedin.com/in/francojuarez/
-- ⚡ Fun fact: I have a teaching degree in literature and I love making music.
+- ⚡ Fun fact: I have a teaching Degree in Literature and I love making music.
 
 
 
