@@ -1,17 +1,16 @@
-### Hi there 👋 
+<h1 align="center">Hi there 👋 </h1>
 
 
 I'm Franco Juárez, a junior web developer from Argentina. 
 
 
-##Now
-
+<h2>NOW</h2>
 
 - 💻 Completing my digital portfolio.
 - 📚 Studying JavaScript.
 - ✨ Looking for my first job as a web developer.
 
-##Bio
+<h2>BIO</h2>
 
 - 🔭 I use CSS, HTML, GIT, GITHUB, BOOTSTRAP, SASS on a daily basis.
 - 🌱 Learning all you can about web development.
