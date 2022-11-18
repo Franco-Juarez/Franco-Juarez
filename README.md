@@ -8,7 +8,7 @@
 <h2>NOW</h2>
 
 - 💻 Completing my digital portfolio.
-- 📚 Studying JavaScript.
+- 📚 Studying ReactJs.
 - ✨ Looking for my first job as a web developer.
 
 <h2>BIO</h2>
