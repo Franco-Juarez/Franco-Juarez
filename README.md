@@ -9,7 +9,8 @@
 
 - 💻 Completing my digital portfolio.
 - 📚 Studying ReactJs.
-- ✨ Looking for my first job as a web developer.
+- 🧠 Working as Wordpress developer
+- ✨ Looking for my first job as a front-end developer.
 
 <h2>BIO</h2>
 
