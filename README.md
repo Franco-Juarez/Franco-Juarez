@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋 </h1>
 
 
-<p align="center">I'm Franco Juárez, a junior web developer from Argentina.</p>
+<p align="center">I'm Franco Juárez, a web developer from Argentina.</p>
 
 
 
 <h2>NOW</h2>
 
 - 💻 Completing my digital portfolio.
-- 📚 Studying ReactJs.
+- 📚 Studying NextJs.
 - 🧠 Working as Wordpress developer
 - ✨ Looking for my first job as a front-end developer.
 
